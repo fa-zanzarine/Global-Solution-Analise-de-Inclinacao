@@ -1,0 +1,1 @@
+# Global-Solution-An-lise-de-Inclina-o-e-Esfor-o-Acumulado
