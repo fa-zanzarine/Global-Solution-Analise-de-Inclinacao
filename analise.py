@@ -195,10 +195,7 @@ def executar_analise():
 
 
 def gerar_grafico():
-    """
-    Gera grafico_altitude_guia_me.png.
-    Instale a dependência com: python -m pip install matplotlib
-    """
+    
     try:
         import matplotlib.pyplot as plt
     except ImportError:
